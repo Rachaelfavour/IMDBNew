@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="browser" value="chrome" />
+    <Parameter name="baseUrl" value="https://www.imdb.com/chart/top/?ref_=nv_mv_250"/>
+    <Parameter name="headless" value="false"/>
+   </TestRunParameters>
+</RunSettings>
